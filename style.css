@@ -1,10 +1,7 @@
-.title {
+.title, .desc, .ing, .dir, .subtitle {
     text-align: center;
 }
 
-.subtitle {
-    text-align: center;
-}
 
 img {
     display: block;
@@ -16,10 +13,11 @@ img {
 
 ul {
     text-align: center;
-    list-style-position: inside;
+    list-style-position: inside ;
 }
 
-
-
+body {
+    background-color: rgb(194, 143, 143);
+}
 
 
